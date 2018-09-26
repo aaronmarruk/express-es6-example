@@ -1,6 +1,6 @@
 # express-es6-example
 
-This is a super simple Express.js boilerplate implementing ES6 features. I've built this purely as a quickstart tool for my own Express hacking projects. 
+This is a super simple Express.js boilerplate implementing ES6 features. I've built this purely as a quick-start tool for my own Express hacking projects. 
 
 What this includes: not a lot! At the moment: 
 
