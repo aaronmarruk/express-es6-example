@@ -6,5 +6,6 @@ What this includes: not a lot! At the moment:
 
 1. Babel transforms
 2. Nodemon
+3. Eslint
 
 I may add more to this if I think it will help quickstart Express hacking projects.
