@@ -9,7 +9,7 @@ import http from 'http';
 
 import app from '../app';
 
-debug('express-react-example:server');
+debug('express-es6-example:server');
 
 /**
  * Normalize a port into a number, string, or false.
